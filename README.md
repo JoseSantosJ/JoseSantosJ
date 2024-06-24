@@ -1,4 +1,7 @@
-## Hi there 👋
+# oi, eu sou josé
+
+## jogo de batalha naval 
+[jogo batalha naval] (https://github.com/JoseSantosJ/JogoBatalhaNaval)
 
 <!--
 **JoseSantosJ/JoseSantosJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
